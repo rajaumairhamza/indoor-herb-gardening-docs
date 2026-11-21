@@ -1,0 +1,6 @@
+site_name: Indoor Herb Gardening Docs
+site_url: https://indoor-herb-gardening-docs.readthedocs.io/
+repo_url: https://github.com/rajaumairhamza/indoor-herb-gardening-docs
+theme: readthedocs
+nav:
+  - Home: index.md
